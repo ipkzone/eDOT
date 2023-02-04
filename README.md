@@ -9,6 +9,8 @@ $ git clone https://github.com/ipkzone/eDOT
 $ cd eDOT
 $ php eDOT.php --eDOT
 ```
+Step installations Installer check this link
+> https://github.com/ipkzone/installerhmsc
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20eDOT%20bos).<br>
 
