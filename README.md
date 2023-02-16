@@ -2,20 +2,13 @@
 Tools eDOT Apps | Suntik Refferal Code
 <center><img src="image.png" alt="eDOT"></center>
 <center><img src="edot.png" alt="eDOT"></center>
-Installations tools eDOT Apps command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
-```
-$ git clone https://github.com/ipkzone/eDOT
-$ cd eDOT
-$ php eDOT.php --eDOT
-```
+<center><img src="wd.png" alt="eDOT"></center><br>
 
-Fiture Withdraw
-<center><img src="wd.png" alt="eDOT"></center>
-Installations tools eDOT Apps command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
+Installations tools command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```
 $ git clone https://github.com/ipkzone/eDOT
-$ cd eDOT/Withdraw
-$ php withdraw.php
+$ cd /eDOT
+$ php eDOT.php --eDOT
 ```
 
 Step installations Installer check this link
