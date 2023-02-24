@@ -1,14 +1,12 @@
-# eDOT
-Tools eDOT Apps | Suntik Refferal Code
-<center><img src="image.png" alt="eDOT"></center>
-<center><img src="edot.png" alt="eDOT"></center>
-<center><img src="wd.png" alt="eDOT"></center><br>
+# Edot Tools Update
+<center><img src="dot.png" alt="eDOT"></center>
+
 
 Installations tools command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```
 $ git clone https://github.com/ipkzone/eDOT
-$ cd /eDOT
-$ php eDOT.php --eDOT
+$ cd eDOT
+$ php main.php --run
 ```
 
 Step installations Installer check this link
